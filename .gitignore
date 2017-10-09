@@ -1,0 +1,7 @@
+data/
+*.csv
+simu
+wai
+a.out
+*.dSYM
+*.txt
